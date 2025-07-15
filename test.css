@@ -1,0 +1,25 @@
+a:link, a:visited {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    color: #00f;
+    text-decoration: underline;
+}
+a:hover, a:active {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    color: #00f;
+    text-decoration: none;
+}
+
+a.submenu:link, a.submenu:visited {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    color: #00f;
+    text-decoration: underline;
+}
+a.submenu:hover, a.submenu:active {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    color: #00f;
+    text-decoration: none;
+}
